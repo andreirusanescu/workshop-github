@@ -1,7 +1,7 @@
 
 
 def main():
-    print('Bye in py!')
+    print('Byeeee in py!')
 
 if __name__ == '__main__':
     main()
